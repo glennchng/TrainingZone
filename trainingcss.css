@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+#banner
+{background-color: aqua;
+	text-align: center;
+	font-size:48px;
+}
+
+#nav_bar
+{text-decoration-color: darkorchid;
+background-color: cornflowerblue;
+text-align: left;
+font-size:18px;
+}
+table
+{background-color:azure;
+}
+
+#content
+{background-color: lightseagreen;
+text-align: left;
+font-size: 28px;
+}
+
+#footer
+{background-color: mediumspringgreen;
+text-align: left;
+font-size: 20px;
+}
